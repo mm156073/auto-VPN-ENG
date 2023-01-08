@@ -1,0 +1,5 @@
+ID: "XXXXXXXXXXX" # ID
+PATTERN: [0, 1, 2, 3, 4, 5, 6, 7] # PATTERN (matrix) 
+VPN: "VPNNAME" # VPN NAME
+SECRET: "XXXX" # SECRET PATTERN 
+FILE_NAME: "ot_pass.txt"
