@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 selenium = "*"
 chromedriver-binary = "==108.*"
+pyinstaller = "*"
+pyyaml = "*"
 
 [dev-packages]
 ipykernel = "*"
