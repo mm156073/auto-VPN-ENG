@@ -5,4 +5,3 @@
 ## How to Use
 1. params.yamlをうめる
 2. バイナリを実行
-以上
