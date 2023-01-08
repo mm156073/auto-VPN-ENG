@@ -1,4 +1,4 @@
-# auto-VPN
+# auto-VPN-ENG
 
 工学系研究科のVPN接続を自動化. 
 
